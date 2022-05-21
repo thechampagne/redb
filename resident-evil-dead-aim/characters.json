@@ -1,0 +1,38 @@
+[
+   {
+      "id":1,
+      "name":"Bruce McGivern",
+      "name_ar":"بروس ماكجيفيرن",
+      "birth_date":1975,
+      "blood_type":null,
+      "length":null,
+      "weight":null,
+      "description":null,
+      "description_ar":"بروس عضو في قوّات القيادة الاستراتيجية الأمريكية. دوره الرئيسي هو العمل كمهندس في فرقة تحقيق مكافحة آمبريلا. بروس متهوِّر جدًّا، لا يُفكِّر دائماً حول الأشياء، لكنّه يعمل باندفاع. يتسبّب هذا الأمر إلى إهماله حياته الخاصة، لكنّه يبقى دائماً ملتزماً بمهمَّته التي يقوم بها.",
+      "image_url":"https://raw.githubusercontent.com/thechampagne/redb/main/resident-evil-dead-aim/images/characters/1.jpg"
+   },
+   {
+      "id":2,
+      "name":"Fongling",
+      "name_ar":"فونغ لينغ",
+      "birth_date":null,
+      "blood_type":null,
+      "length":null,
+      "weight":null,
+      "description":null,
+      "description_ar":"فونغ لينغ هي عميلة صينيّة، وعلى ما يبدو أنّها تعمل لدى قسم سلامة الصينيّين كمهندسة. التحقت بنفس المهمة التي يقوم بها بروس. إنّها ذكية، ودائمة الالتزام لخدمة وطنها. أحياناً تضع خياراتها الشخصية عن رؤسائها في الانتظار لغرض المهمّة، وحماية وطنها.",
+      "image_url":"https://raw.githubusercontent.com/thechampagne/redb/main/resident-evil-dead-aim/images/characters/2.jpg"
+   },
+   {
+      "id":3,
+      "name":"Morpheus D. Duvall",
+      "name_ar":"مورفيوس د دوفال",
+      "birth_date":1970,
+      "blood_type":null,
+      "length":null,
+      "weight":null,
+      "description":null,
+      "description_ar":"موظّف سابق للبحث، والتطوير في شركة آمبريلا. لقد كوّن جماعة من الأفراد الأصغر سنًا، الأشخاص الذين عبدوه على ما يبدو واستخدم هذه المجموعة للتسلُّل إلى مرافق آمبريلا لتبخير عيّنات الـ T-Virus. كانت هذه المجموعة أيضًا هي التي أمّنت الطراد المعروف باسم The Spencer Rain، وعند هذه النقطة خانهم مورفيوس واستخدمهم كمواضيع لتجاربه.",
+      "image_url":"https://raw.githubusercontent.com/thechampagne/redb/main/resident-evil-dead-aim/images/characters/3.jpg"
+   }
+]
